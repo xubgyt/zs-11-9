@@ -9,6 +9,8 @@ const Layout = ({ children, pageTitle }) => {
         <Head>
             <title>KyyStore | { pageTitle }</title>
             <meta name="description" content="Website Top Up Termurah di Indonesia" />
+            <meta name="author" content="Kyy Store" />
+            <meta name="keywords" content="Kyy Store kyystore KyyStore top up murah" />
             <link rel="icon" href="/image/logo.png" />
         </Head>
         <Header/>
